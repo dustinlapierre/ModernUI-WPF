@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "debeeb17-e836-4b17-a98d-94cf4951f301": {
+      "ProjectGuid": "debeeb17-e836-4b17-a98d-94cf4951f301",
+      "DisplayName": "ModernUI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
