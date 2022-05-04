@@ -19,3 +19,11 @@ C:\Users\dooms\Desktop\CSharp\ModernUI\ModernUI\obj\Debug\net6.0-windows\ModernU
 C:\Users\dooms\Desktop\CSharp\ModernUI\ModernUI\obj\Debug\net6.0-windows\ref\ModernUI.dll
 C:\Users\dooms\Desktop\CSharp\ModernUI\ModernUI\obj\Debug\net6.0-windows\ModernUI.pdb
 C:\Users\dooms\Desktop\CSharp\ModernUI\ModernUI\obj\Debug\net6.0-windows\ModernUI.genruntimeconfig.cache
+C:\Users\dooms\Desktop\CSharp\ModernUI\ModernUI\obj\Debug\net6.0-windows\Themes\MenuButtonTheme.baml
+C:\Users\dooms\Desktop\CSharp\ModernUI\ModernUI\obj\Debug\net6.0-windows\Themes\TextBoxTheme.baml
+C:\Users\dooms\Desktop\CSharp\ModernUI\ModernUI\obj\Debug\net6.0-windows\App.baml
+C:\Users\dooms\Desktop\CSharp\ModernUI\ModernUI\obj\Debug\net6.0-windows\MVVM\View\HomeView.g.cs
+C:\Users\dooms\Desktop\CSharp\ModernUI\ModernUI\obj\Debug\net6.0-windows\MVVM\View\HomeView.baml
+C:\Users\dooms\Desktop\CSharp\ModernUI\ModernUI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\dooms\Desktop\CSharp\ModernUI\ModernUI\obj\Debug\net6.0-windows\MVVM\View\DiscoveryView.g.cs
+C:\Users\dooms\Desktop\CSharp\ModernUI\ModernUI\obj\Debug\net6.0-windows\MVVM\View\DiscoveryView.baml
